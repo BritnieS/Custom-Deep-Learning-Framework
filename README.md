@@ -1,9 +1,3 @@
-Based on the `Exercise_2.pdf` file, here is a professional `README.md` for your GitHub repository.
-
-This README highlights that you implemented these complex algorithms **from scratch** (without PyTorch or TensorFlow), which is a major selling point for an engineering portfolio.
-
----
-
 # Convolutional Neural Networks (CNN) from Scratch
 
 ## 📌 Project Overview
