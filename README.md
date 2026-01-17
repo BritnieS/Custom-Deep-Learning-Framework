@@ -74,7 +74,7 @@ python3 NeuralNetworkTests.py
 python3 NeuralNetworkTests.py TestInitializers  # Test Init schemes [cite: 1]
 python3 NeuralNetworkTests.py TestOptimizers2   # Test Adam/Momentum [cite: 2]
 python3 NeuralNetworkTests.py TestConv          # Test Convolution logic [cite: 5]
-[python3 NeuralNetworkTests.py TestPooling       # Test Pooling logic [cite: 6]
+python3 NeuralNetworkTests.py TestPooling       # Test Pooling logic [cite: 6]
 
 ```
 
