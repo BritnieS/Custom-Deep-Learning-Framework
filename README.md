@@ -51,10 +51,7 @@ Implemented **Max-Pooling** to reduce dimensionality and introduce translation i
 ## 💻 Tech Stack
 
 * **Language:** Python 3
-* 
-**Libraries:** NumPy, SciPy (for n-dimensional convolution operations).
-
-
+* **Libraries:** NumPy, SciPy (for n-dimensional convolution operations).
 * **Framework:** Custom implementation (No ML libraries used).
 
 ## 🚀 How to Run & Test
